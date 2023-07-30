@@ -6,7 +6,7 @@ Currency Converter is a simple Flutter app that allows you to convert amounts fr
 
 ## Demo
 
-
+https://github.com/rohankalva123/currencyConverter/blob/c41cc6857f25345308bb5287928c5de0d8eb1248/cc.png
 
 Click the above image to view the UI of the Currency Converter app.
 
